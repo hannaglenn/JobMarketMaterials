@@ -57,7 +57,7 @@ This can be a sometimes be a really challenging document to write! My statement 
 
 #### Cover Letter Templates
 
-I applied to every job I felt qualified for (this resulted in almost 300 applications). I am aware of the debate on whether to spend time customizing cover letters... for me, it was worth the extra time for the peace of mind that I didn't get denied just because of a generic cover letter. I made customization easier by starting with 4 cover letter templates that I used as a base for each application: [academic](Sample-Documents/Academic-Cover-Letter.pdf), [teaching](Sample-Documents/Teaching-Cover-Letter.pdf), postdoc, and industry. These are largely similar, but the order in which you talk about things is important (start with teaching for a liberal arts position!). I tried to add an attribute of the department and an attribute of the location that I was drawn to for each position. The most important thing here is to make sure you don't forget to change the name of the institution!!!
+I applied to every job I felt qualified for (this resulted in almost 300 applications). I am aware of the debate on whether to spend time customizing cover letters... for me, it was worth the extra time for the peace of mind that I didn't get denied just because of a generic cover letter. I made customization easier by starting with 4 cover letter templates that I used as a base for each application: [academic](Sample-Documents/Academic-Cover-Letter.pdf), [teaching](Sample-Documents/Teaching-Cover-Letter.pdf), [postdoc](Sample-Documents/postdoc-Cover-Letter.pdf), and [industry](Sample-Documents/industry-Cover-Letter.pdf). These are largely similar, but the order in which you talk about things is important (start with teaching for a liberal arts position!). I tried to add an attribute of the department and an attribute of the location that I was drawn to for each position. The most important thing here is to make sure you don't forget to change the name of the institution!!!
 
 #### CV
 
@@ -69,7 +69,9 @@ A polished website is also very important. I used Alex Hollingsworth's [job mark
 
 #### Video Presentation of Job Market Paper (Optional)
 
-Many applications have an option to upload a short video of you explaining your job market paper. This can be helpful to show that you are well-spoken and can explain your research concisely. I tried both with and without slides, and found that having slides helped my flow a lot. I'm honestly unsure if this actually contributes to whether someone is chosen for an interview or not, but a good quality video can't hurt. My video is linked here. 
+Many applications have an option to upload a short video of you explaining your job market paper. This can be helpful to show that you are well-spoken and can explain your research concisely. I tried both with and without slides, and found that having slides helped my flow a lot. At Emory, we have a video [recording studio](https://ats.emory.edu/sdl/production-studios/streaming_and_recording_studio/index.html) that students can reserve that has great lighting and a telemprompter. 
+
+I'm honestly unsure if the video actually contributes to whether someone is chosen for an interview or not, but a good quality video can't hurt. My video is linked [here](https://hannaglenn.netlify.app/media/JMP_video.mp4). 
 
 ## First-Round Interviews
 
