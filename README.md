@@ -45,23 +45,23 @@ The basic items you should prepare before you begin applications are: (1) resear
 
 #### Research Statement
 
-My research statement is linked [here](Sample Documents/Research Statement.pdf). The purpose of this document is to show that your past and current research is high quality, and that you have a plan to continue high quality research in the future. While it seems like a small thing, I really liked the idea of bolding paper titles in this document to give readers an anchor for each section. 
+My research statement is linked [here](Sample-Documents/Research-Statement.pdf). The purpose of this document is to show that your past and current research is high quality, and that you have a plan to continue high quality research in the future. While it seems like a small thing, I really liked the idea of bolding paper titles in this document to give readers an anchor for each section. 
 
 #### Teaching Statement
 
-One version of my teaching statement is linked [here](Sample Documents/Teaching Statement.pdf). I found that this was the document I needed to tailor to different jobs most often. I ended up with a 1,2, and 3 page version, and different versions that focused on graduate or undergraduate teaching. I woudn't worry about having all of those upfront, but be aware that you may need to create different versions later. My goals in writing my teaching statement were to show that I am passionate about educating students well, and that I have diverse experiences teaching in different settings. For me, this included research about pedagogy and including sample syllabus material. This is not always necessary, and many jobs will ask you to submit a syllabus separately from the teaching statement. 
+One version of my teaching statement is linked [here](Sample-Documents/Teaching-Statement.pdf). I found that this was the document I needed to tailor to different jobs most often. I ended up with a 1,2, and 3 page version, and different versions that focused on graduate or undergraduate teaching. I woudn't worry about having all of those upfront, but be aware that you may need to create different versions later. My goals in writing my teaching statement were to show that I am passionate about educating students well, and that I have diverse experiences teaching in different settings. For me, this included research about pedagogy and including sample syllabus material. This is not always necessary, and many jobs will ask you to submit a syllabus separately from the teaching statement. 
 
 #### Diversity and Inclusion Statement
 
-This can be a sometimes be a really challenging document to write! My statement is linked [here](Sample Documents/Diversity and Inclusion Statement.pdf). I focused on my experiences teaching diverse student populations, and how my research agenda relates to diversity. 
+This can be a sometimes be a really challenging document to write! My statement is linked [here](Sample-Documents/Diversity-and-Inclusion-Statement.pdf). I focused on my experiences teaching diverse student populations, and how my research agenda relates to diversity. 
 
 #### Cover Letter Templates
 
-I applied to every job I felt qualified for (this resulted in almost 300 applications). I am aware of the debate on whether to spend time customizing cover letters... for me, it was worth the extra time for the peace of mind that I didn't get denied just because of a generic cover letter. I made customization easier by starting with 4 cover letter templates that I used as a base for each application: [academic](Sample Documents/Academic Cover Letter.pdf), [teaching](Sample Documents/Teaching Cover Letter.pdf), postdoc, and industry. These are largely similar, but the order in which you talk about things is important (start with teaching for a liberal arts position!). I tried to add an attribute of the department and an attribute of the location that I was drawn to for each position. The most important thing here is to make sure you don't forget to change the name of the institution!!!
+I applied to every job I felt qualified for (this resulted in almost 300 applications). I am aware of the debate on whether to spend time customizing cover letters... for me, it was worth the extra time for the peace of mind that I didn't get denied just because of a generic cover letter. I made customization easier by starting with 4 cover letter templates that I used as a base for each application: [academic](Sample-Documents/Academic-Cover-Letter.pdf), [teaching](Sample-Documents/Teaching-Cover-Letter.pdf), postdoc, and industry. These are largely similar, but the order in which you talk about things is important (start with teaching for a liberal arts position!). I tried to add an attribute of the department and an attribute of the location that I was drawn to for each position. The most important thing here is to make sure you don't forget to change the name of the institution!!!
 
 #### CV
 
-A polished CV is a must before submitting applications, but the good thing is this is a document you will likely not have to change again once it's done. My job market CV is linked [here](Sample Documents/CV.pdf). 
+A polished CV is a must before submitting applications, but the good thing is this is a document you will likely not have to change again once it's done. My job market CV is linked [here](Sample-Documents/CV.pdf). 
 
 #### Website
 
