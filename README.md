@@ -101,20 +101,41 @@ In addition to this, you should have severl "pitches" completely memorized for i
 
 From this point onward is where [Notion](https://www.notion.com/) became my literal best friend. I created a Notion page specifically devoted to keeping track of and preparing for Zoom interviews. In one column, I created a page for every upcoming interview and sorted them by date, and once that interview was finished I would drag it to the finished column. 
 
+
 ![zoom-interview-notion](https://github.com/user-attachments/assets/e4ccf523-85a7-4931-8d2f-6a0b3d35b7b3)
 
-Within each interview page, I would complete additional preparation specific to the job. I would research the department, the research of specific people in the department, the institution and/or company, and answer more questions about why I thought the job would be a good fit. All of the information I gathered and questions I would answer are shown here: 
+
+Within each interview page, I completed additional preparation specific to each job. I would research different aspects of the department, the institution and/or company, and answer more questions about why I thought the job would be a good fit. All of the information I gathered and questions I would answer are shown here. I also sent thank you emails to the interviewers a couple days after the interview.
+
 
 ![zoom-interview-specific-notion](https://github.com/user-attachments/assets/27520cda-84f5-4b88-adf0-4e49b85230eb)
 
-At this point, you are ready for the interview! Be confident and genuine, half the battle of getting a job is showing that you would be a good colleague. 
 
-#### Random Thoughts
+At this point, you are ready for the interview! Be confident and genuine, half the battle of getting a job is showing that you would be a good colleague.  
 
-Most first round interviews were 20-30 minutes, but I did have a handful of Zoom interviews last 45 minutes to an hour. 
+#### Random Points
 
-There is generally mixed advice about whether to reveal certain aspects of yourself on in interviews/flyouts (if you have a partner on the market, if you're married, etc.) There is validity in a lot of this advice. I generally value the culture of a department more than prestige, so I followed my favorite advice on this topic, which is "if you don't get hired for a particular characteristic that is a big part of you, did you really want that job in the first place?".  
+Most of my first round interviews were 20-30 minutes, but I did have a handful of Zoom interviews last 45 minutes to an hour. 
+
+There is mixed advice out there about whether to reveal certain aspects of yourself in interviews/flyouts (if you have a partner on the market, if you're married, etc.). There is validity in a lot of this advice. I generally value the culture of a department more than prestige (gasp!), so I followed my favorite advice on this topic, which is "if you don't get hired for a particular characteristic that is a big part of you, did you really want that job in the first place?".  
 
 ## Flyouts 
 
+Woohoo! You got a fly-out! This is an exciting time during the market. You haven't sealed the deal yet, but someone likes you enough to spend money to meet you in person. My typical fly-out looked like: fly in one day, full day of interviews/meals the second day, then fly out the third day. My preparation included coming up with general packing lists (you should have 2-3 go-to outfits that are packable and you feel amazing in), researching everyone in the department, and coming up with questions/topics of conversation. Additionally, review all of the interview question answers that you came up with in preparation for Zoom interviews, including the research pitches. 
+
+I created another Notion page to keep track of my fly-outs, which again has a column for upcoming, and then they get moved to the finished column. Within each page, I copied the schedule (if they don't send you a schedule, ask for one!) along with potential questions/topics for each person I was meeting with. However, most of this page got filled out after the flyout was over. During full travel and interview days, things move so fast that it can be hard to process how you're feeling. But this is super important because you want to know whether the job is a good fit for you! Afterwards, I would take note of anyone I enjoyed meeting, anyone I got weird vibes from (yes, it happens), and thoughts about the location or culture of the group. This reflection can help decipher that gut feeling I mentioned earlier, which can be a factor in the decision making process. 
+
+
+![flyouts-notion](https://github.com/user-attachments/assets/1c825b1d-f727-4ea1-9dd2-571664b4cccf)
+
+![flyouts-specific-notion](https://github.com/user-attachments/assets/e783ffd3-bba0-435e-a135-84ac43dd7088)
+
+
 ## Post Market
+
+## General Advice
+
+What I'm about to say won't be news to you. *The market is tough*. There can be a lot of stress, worry, comparison, and unhealthy habits that develop during this time. I cannot stress enough the importance of keeping yourself grounded. I put a few boundaries in place to try to combat these feelings, because I am very stress-averse. 
+
+1. I did not talk about the market to other grad students who were also on the market. These are my friends, and in many cases we were competing for the same jobs. I did not want any opportunity for comparison to cause more anxiety than already exists during this time. I expressed this boundary early on, and don't regret it! We all got great jobs and were able to share in that joy for each other in the end.
+2.  While the market is super time consuming, there were certain things I simply couldn't give up in order to stay grounded. I still attended church every week, as I had throughout all of grad school, and spent time with my husband regularly. These things are a huge part of my identity, and continuing them was really important for me to have endurance through the end. Little things like taking a walk every day, expressing what you're grateful for, or spending time with friends, can truly make a huge difference in day-to-day life while looking for a job. 
