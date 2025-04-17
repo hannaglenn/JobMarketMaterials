@@ -1,6 +1,6 @@
 # Job Market Materials - 2024/2025
 
-My name is Hanna Glenn; I graduated from Emory University with a PhD in Economics in 2025. This repository contains everything from my job market journey... advice, materials, timing, thoughts, feelings. Everyone's job market is unique, and what worked for me won't for everybody. But I remember approaching the job market and still not grasping what it would actually be like, so I'm happy to share as much detail as I can. I applied to *every* job that I was qualified for (almost 300 applications submitted). I got interviews for diverse positions in research, government, liberal arts institutions, research institutions, and private industry. However, most of my experience is centered around academic positions, especially for late-round interviews and flyouts. 
+My name is Hanna Glenn; I graduated from Emory University with a PhD in Economics in 2025. This repository contains everything from my job market journey... advice, materials, timing, thoughts, feelings. Everyone's job market is unique, and what worked for me won't for everybody. But I remember approaching the job market and still not grasping what it would actually be like, so I'm happy to share as much detail as I can. I applied to *every* job that I was qualified for (almost 300 applications submitted). I got interviews for diverse positions in research, government, liberal arts institutions, research institutions, postdocs, and private industry. However, most of my experience is centered around academic positions, especially for late-round interviews and flyouts. 
 
 I primarily used [Notion](https://www.notion.com/) and Excel to organize materials and schedules.
 
@@ -11,7 +11,7 @@ This is generally when the major segments of the job market took place for me. I
 *Draft of job market paper finished*: August 1   
 *Work on application documents*: August - September   
 *Submit applications*: September - December (but mostly done by end of November)   
-*First round interviews*: late October - December   
+*First round interviews*: late October - December (a few in January)  
 *Flyouts*: November - January   
 
 ## Prior to the Market
@@ -131,7 +131,9 @@ I created another Notion page to keep track of my fly-outs, which again has a co
 ![flyouts-specific-notion](https://github.com/user-attachments/assets/e783ffd3-bba0-435e-a135-84ac43dd7088)
 
 
-## Post Market
+## Making a Decision
+
+I hope that you get an offer from your dream position and know immediately that you want to take it! Sometimes it works out that way... but not always. Second to that, I hope that you have at least a couple good options at the same time that you can choose between. The hardest decision comes with an offer that has a tight deadline when you still have interviews and flyouts lined up. This is where you can look back at your pre-market preferences to rank the options along with the probability of getting the next job. There is no good one-size-fits all approach to dealing with this, but I found it really helpful to talk to my advisor, who cared a lot about me ending up in a place I would be happy. In the end, you are the one that will have to wake up and go to work every day and live with the choice, so try to be true to yourself. 
 
 ## General Advice
 
