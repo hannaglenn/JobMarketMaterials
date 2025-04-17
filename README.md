@@ -101,11 +101,11 @@ In addition to this, you should have severl "pitches" completely memorized for i
 
 From this point onward is where [Notion](https://www.notion.com/) became my literal best friend. I created a Notion page specifically devoted to keeping track of and preparing for Zoom interviews. In one column, I created a page for every upcoming interview and sorted them by date, and once that interview was finished I would drag it to the finished column. 
 
-![zoom-interview-notion](https://github.com/user-attachments/assets/29dceb7b-a0e2-469c-beaf-2efdb2540d56)
+![zoom-interview-notion](https://github.com/user-attachments/assets/e4ccf523-85a7-4931-8d2f-6a0b3d35b7b3)
 
 Within each interview page, I would complete additional preparation specific to the job. I would research the department, the research of specific people in the department, the institution and/or company, and answer more questions about why I thought the job would be a good fit. All of the information I gathered and questions I would answer are shown here: 
 
-![zoom-interview-specific-notion](https://github.com/user-attachments/assets/b72d63b1-1d89-41b4-9af3-bf34f86af586)
+![zoom-interview-specific-notion](https://github.com/user-attachments/assets/27520cda-84f5-4b88-adf0-4e49b85230eb)
 
 At this point, you are ready for the interview! Be confident and genuine, half the battle of getting a job is showing that you would be a good colleague. 
 
