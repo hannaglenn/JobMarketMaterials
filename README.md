@@ -4,6 +4,10 @@ My name is Hanna Glenn; I graduated from Emory University with a PhD in Economic
 
 I primarily used [Notion](https://www.notion.com/) (highly recommend!) and Excel to organize materials and schedules.
 
+Other resources for job market advice:
+- [AEA Job Market Advice from 2018-2019](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.aeaweb.org/content/file?id=869)
+- [Megan McCoy Dowdy's Teaching Specific Job Market Advice](https://meganmccoydowdy.github.io/jobmarketadvice)
+
 ## Timeline
 
 This is a timeline for when the major segments of the job market took place for me. I accepted a job in January, so the end dates could extend further in other circumstances. Prior to the COVID pandemic, schedules were much more rigid around the in-person AEA meetings. Currently, even though interviews have moved to Zoom, employers are strongly encouraged to stick to the same pre-COVID timeline. However, I experienced several early movers and exploding offers. I forsee the timeline unraveling even more in the coming years. 
