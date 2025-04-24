@@ -10,8 +10,8 @@ This is a timeline for when the major segments of the job market took place for 
 
 *Draft of job market paper finished*: August 1   
 *Work on application documents*: August - September   
-*Submit applications*: September - December (Nov. 15th was biggest deadline)  
-*First round interviews*: November - January
+*Submit applications*: September - December (Nov. 15th was biggest deadline)     
+*First round interviews*: November - January    
 *Flyouts*: November - January   
 
 ## Prior to the Market
