@@ -5,7 +5,7 @@ My name is Hanna Glenn; I graduated from Emory University with a PhD in Economic
 I primarily used [Notion](https://www.notion.com/) (highly recommend!) and Excel to organize materials and schedules.
 
 Other resources for job market advice:
-- [AEA Job Market Advice from 2018-2019](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.aeaweb.org/content/file?id=869)
+- [AEA Job Market Advice from 2018-2019](https://www.aeaweb.org/resources/students/grad-prep/job-market)
 - [Megan McCoy Dowdy's Teaching Specific Job Market Advice](https://meganmccoydowdy.github.io/jobmarketadvice)
 
 ## Timeline
