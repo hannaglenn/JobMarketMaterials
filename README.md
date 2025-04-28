@@ -67,7 +67,7 @@ I also included [Latex template files](Sample-Docuemts/Cover-Letter-Template-Tex
 
 #### CV
 
-A polished CV is a must before submitting applications, but the good thing is this is a document you will likely not have to change again once it's done. My job market CV is linked [here](Sample-Documents/CV.pdf), and the .tex file associated with it is linked [here](Sample-Documents/CV_tex.tex). Keeo this updated throughout grad school so that you don't have to try to remember everything you've done over 5-6 years!
+A polished CV is a must before submitting applications, but the good thing is this is a document you will likely not have to change again once it's done. My job market CV is linked [here](Sample-Documents/CV.pdf), and the .tex file associated with it is linked [here](Sample-Documents/CV_tex.tex). Keep this updated throughout grad school so that you don't have to try to remember everything you've done over 5-6 years!
 
 #### Website
 
