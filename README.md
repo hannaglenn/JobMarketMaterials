@@ -97,7 +97,7 @@ Different departments also have different methods of reaching out to potential e
 
 #### Preparing for Interviews
 
-I created [one document](Sample-Documents/Interview-Questions.doc) in which I compiled a list of every general (not institution-specific) interview question I could find. I wrote out my answers to every single one of these questions and practiced them regularly. Give your close friends or family copies of this list and ask them to surprise you with questions at random times. I was asked almost all of these in at least one interview, so you should be prepared for all of them by the time you start doing Zoom interviews. 
+I created [one document](Sample-Documents/Interview-Questions.pdf) in which I compiled a list of every interview question I could find. I wrote out my answers to every single one of these questions and practiced them regularly. Give your close friends or family copies of this list and ask them to surprise you with questions at random times. I was asked almost all of these in at least one interview, so you should be prepared for all of them by the time you start doing Zoom interviews. 
 
 In addition to this, you should have several "pitches" completely memorized for interviews. The first is some version of "tell us about your job market paper", and the second is some version of "tell us about your research/dissertation". In the majority of interviews, this is the first thing they ask. I prepared a 2-5 minute pitch of each of these questions and memorized them. You want to know them so well that they don't fly out of your brain in a moment of nervousness (which did happen to me a couple of times!).  
 
